@@ -16,7 +16,7 @@ pip install selenium
 
 Выполните следующие команды, чтобы запустить автоматизированные тесты:
 
-python task_1.py
+python task_1.py  
 python task_2.py
 
 Тесты будут выполнены на сайте Avito.
