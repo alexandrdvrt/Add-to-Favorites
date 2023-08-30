@@ -8,3 +8,20 @@
 
 1. **Клонирование Репозитория**
 
+git clone https://github.com/alexandrdvrt/Add-to-Favorites.git
+
+
+2. **Установка Selenium**
+
+Перейдите в папку проекта и установите Selenium, выполнив:
+
+pip install selenium
+
+3. **Запуск Тестов**
+
+Выполните следующие команды, чтобы запустить автоматизированные тесты:
+
+python task_1.py
+python task_2.py
+
+Тесты будут выполнены на сайте Avito.
